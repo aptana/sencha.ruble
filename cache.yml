@@ -1,0 +1,789 @@
+!!com.aptana.scripting.model.BundleElement
+author: 'null'
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children: &id001 []
+    commandName: Add Events
+    customProperties: null
+    displayName: Add Events
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Define Event
+    customProperties: null
+    displayName: Define Event
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.onReady
+    customProperties: null
+    displayName: Ext.onReady
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.reg
+    customProperties: null
+    displayName: Ext.reg
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.ns
+    customProperties: null
+    displayName: Ext.ns
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.override
+    customProperties: null
+    displayName: Ext.override
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.apply
+    customProperties: null
+    displayName: Ext.apply
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.applyIf
+    customProperties: null
+    displayName: Ext.applyIf
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.applyIf to config
+    customProperties: null
+    displayName: Ext.applyIf to config
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.each
+    customProperties: null
+    displayName: Ext.each
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.iterate
+    customProperties: null
+    displayName: Ext.iterate
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.extend
+    customProperties: null
+    displayName: Ext.extend
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Ext.extend Object
+    customProperties: null
+    displayName: Ext.extend Object
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'Extend Block: constructor'
+    customProperties: null
+    displayName: 'Extend Block: constructor'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'Extend Block: initComponent'
+    customProperties: null
+    displayName: 'Extend Block: initComponent'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'Extend Block: config'
+    customProperties: null
+    displayName: 'Extend Block: config'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'Extend Block: property'
+    customProperties: null
+    displayName: 'Extend Block: property'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'Extend Block: function'
+    customProperties: null
+    displayName: 'Extend Block: function'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: comment block'
+    customProperties: null
+    displayName: 'JSDoc: comment block'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: class'
+    customProperties: null
+    displayName: 'JSDoc: class'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: extends'
+    customProperties: null
+    displayName: 'JSDoc: extends'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: config'
+    customProperties: null
+    displayName: 'JSDoc: config'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: param'
+    customProperties: null
+    displayName: 'JSDoc: param'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: param (config)'
+    customProperties: null
+    displayName: 'JSDoc: param (config)'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: return'
+    customProperties: null
+    displayName: 'JSDoc: return'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: 'JSDoc: property'
+    customProperties: null
+    displayName: 'JSDoc: property'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: JSDoc new line
+    customProperties: null
+    displayName: JSDoc new line
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: fireEvent
+    customProperties: null
+    displayName: fireEvent
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: fireEvent (before)
+    customProperties: null
+    displayName: fireEvent (before)
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: fireEvent (before and after)
+    customProperties: null
+    displayName: fireEvent (before and after)
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: on (addListener)
+    customProperties: null
+    displayName: on (addListener)
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: call superclass
+    customProperties: null
+    displayName: call superclass
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: console.log
+    customProperties: null
+    displayName: console.log
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: console.log object
+    customProperties: null
+    displayName: console.log object
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: console.log arguments
+    customProperties: null
+    displayName: console.log arguments
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: if undefined
+    customProperties: null
+    displayName: if undefined
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: if not undefined
+    customProperties: null
+    displayName: if not undefined
+    path: bundle.rb
+    scope: null
+  commandName: Sencha
+  customProperties: null
+  displayName: Sencha
+  path: bundle.rb
+  scope: null
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ae]
+  displayName: Add Events
+  expansion: "${1:this}.addEvents(\n    /**\n     * @event ${2:eventName}\n     *\
+    \ ${3:Event description}${4:\n     * @param {${5:paramType}\\} ${6:paramName}\
+    \ ${7:parameter description}}\n     */\n    '${2:eventName}'$0\n);"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [super]
+  displayName: call superclass
+  expansion: ${1:MyClassName}.superclass.${2:constructor}.${3:apply}(${4:this, arguments});$0
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [coa]
+  displayName: console.log arguments
+  expansion: console.log(arguments);$0
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [co]
+  displayName: console.log object
+  expansion: console.log($1);$0
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [c]
+  displayName: console.log
+  expansion: console.log('$1');$0
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [e]
+  displayName: Define Event
+  expansion: "/**\n * @event ${1:eventName}\n * ${2:Event description}${3:\n * @param\
+    \ {${4:paramType}\\} ${5:paramName} ${6:parameter description}}\n */\n'${1:eventName}'$0"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [app]
+  displayName: Ext.apply
+  expansion: "Ext.apply(${1:config}, {\n  $0\n});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [aifc]
+  displayName: Ext.applyIf to config
+  expansion: "config = config || {};\n      \nExt.applyIf(config, {\n  $0\n});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [aif]
+  displayName: Ext.applyIf
+  expansion: "Ext.applyIf(${1:config}, {\n  $0\n});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [each]
+  displayName: Ext.each
+  expansion: "Ext.each(${1:Array}, ${2:function(${4}) {\n  ${0}\n\\}}${3:, this});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [extendo]
+  displayName: Ext.extend Object
+  expansion: "/**\n * @class ${1:MyNamespace.}${2:${TM_FILENAME/(.+)\\.js$/$1/}}\n\
+    \ * @extends ${3:Object}\n * ${4:Description}\n */\n${1:MyNamespace.}${2:ClassName}\
+    \ = Ext.extend(${3:Object}, {\n\n    constructor: function() {\n        Ext.applyIf(this,\
+    \ {\n            $0\n        });\n    }\n});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [extend]
+  displayName: Ext.extend
+  expansion: "/**\n * @class ${1:MyNamespace.}${2:${TM_FILENAME/(.+)\\.js$/$1/}}\n\
+    \ * @extends ${3:extendsClass}\n * ${6:Description}\n */\n${1:MyNamespace.}${2:ClassName}\
+    \ = Ext.extend(${3:extendsClass}, {\n\n    initComponent: function() {\n     \
+    \   Ext.applyIf(this, {\n            $0\n        });\n        \n        ${1:MyNamespace.}${2:ClassName}.superclass.initComponent.apply(this,\
+    \ arguments);\n    }\n});${4:\n\nExt.reg('${5:xtype}', ${1:MyNamespace.}${2:ClassName});}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [iterate]
+  displayName: Ext.iterate
+  expansion: "Ext.iterate(${1:Object}, ${2:function(key, value) {\n  ${0}\n\\}}${3:,\
+    \ this});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ns]
+  displayName: Ext.ns
+  expansion: Ext.ns('$1');$0
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ready]
+  displayName: Ext.onReady
+  expansion: "Ext.onReady(function() {\n  $0\n});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [override]
+  displayName: Ext.override
+  expansion: "Ext.override(${1:Ext.${2:SomeClass}}, {\n  $0\n});"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [reg]
+  displayName: Ext.reg
+  expansion: Ext.reg('${1:xtype}', ${2:ClassName});$0
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ec]
+  displayName: 'Extend Block: config'
+  expansion: "/**\n * @cfg {${1:String}} ${2:configName} ${3:Property description}\n\
+    \ */\n${2:configName}: ${0}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [cons]
+  displayName: 'Extend Block: constructor'
+  expansion: "constructor: function(config) {\n    config = config || {};\n\n    Ext.applyIf(config,\
+    \ {\n        $0\n    });\n\n    ${2:Ext.Panel}.superclass.constructor.call(this,\
+    \ config);\n}${1:,}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ef]
+  displayName: 'Extend Block: function'
+  expansion: "/**\n * ${10:Function description}${2:\n * @param {${3:String}\\} ${4:paramName}\
+    \ ${5:parameter description}}${7:\n * @return {${8:String}\\} ${9:Return value\
+    \ description}}\n */\n${1:functionName}: function($4$6) {\n  $0\n}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [initc]
+  displayName: 'Extend Block: initComponent'
+  expansion: "initComponent: function() {\n    $0\n  \n    ${1:${TM_FILENAME/(.+)\\\
+    .js$/$1/}}.superclass.initComponent.apply(this, arguments);\n}${2:,}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ep]
+  displayName: 'Extend Block: property'
+  expansion: "/**\n * ${3:Property description}\n * @property ${1:propertyName}\n\
+    \ * @type ${2:Boolean}\n */\n${1:propertyName}: ${0}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [bfefe]
+  displayName: fireEvent (before and after)
+  expansion: "if (${1:this}.fireEvent('${3:before-${2:eventName}}'${4:, ${5:params}})\
+    \ !== false) {\n  $0\n  \n  ${1:this}.fireEvent('${2:eventName}'${6:${4:, ${5:params}}});\n\
+    }"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [bfe]
+  displayName: fireEvent (before)
+  expansion: "if (${1:this}.fireEvent('${2:eventName}'${3:, ${4:params}})) {\n  $0\n\
+    }"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [fe]
+  displayName: fireEvent
+  expansion: ${1:this}.fireEvent('${2:eventName}'${3:, ${4:params}});
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ifnu]
+  displayName: if not undefined
+  expansion: "if (${1:myObject} != undefined) ${2:{\n  $0\n\\}}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [ifu]
+  displayName: if undefined
+  expansion: "if (${1:myObject} == undefined) ${2:{\n  $0\n\\}}"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties: null
+  displayName: JSDoc new line
+  expansion: '* ${0}'
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [ENTER]
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: comment.block.documentation.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: ['* cl']
+  displayName: 'JSDoc: class'
+  expansion: '* @class ${1:ClassName}'
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [/**]
+  displayName: 'JSDoc: comment block'
+  expansion: "/**\n * $0\n */"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: ['* c']
+  displayName: 'JSDoc: config'
+  expansion: '* @cfg {${1:String}} ${2:configName} ${3:Config description}'
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: ['* e']
+  displayName: 'JSDoc: extends'
+  expansion: '* @extends ${1:ClassName}'
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: ['* pc']
+  displayName: 'JSDoc: param (config)'
+  expansion: '* @param {Object} ${1:config} ${2:Optional config object}$0'
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: ['* p']
+  displayName: 'JSDoc: param'
+  expansion: '* @param {${1:String}} ${2:paramName} ${3:Parameter description}'
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [prop]
+  displayName: 'JSDoc: property'
+  expansion: "/**\n * @property ${1:propertyName}\n * @type ${2:Boolean}\n * ${3:Description}\n\
+    \ */\n${4:this.$1} = ${5:new ${2:Boolean}({\n  $0\n\\})};"
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: ['* r']
+  displayName: 'JSDoc: return'
+  expansion: '* @return {${1:String}} ${2:Returned parameter description}'
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: ['on']
+  displayName: on (addListener)
+  expansion: ${1:this}.on('${2:click}', ${4:function($5) {$0\}}, ${3:this});
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets/snippets.rb
+  runType: current_thread
+  scope: source.js
+  workingDirectoryType: UNDEFINED
+copyright: null
+customProperties: {contact_email_rot_13: 'null'}
+decreaseIndentMarkers: &id002 {}
+description: 'null
+
+  '
+displayName: Sencha
+fileTypeRegistry: *id002
+fileTypes: *id001
+foldingStartMarkers: *id002
+foldingStopMarkers: *id002
+increaseIndentMarkers: *id002
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: null
+visible: true
