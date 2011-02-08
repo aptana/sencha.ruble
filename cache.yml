@@ -238,6 +238,7 @@ children:
   expansion: "${1:this}.addEvents(\n    /**\n     * @event ${2:eventName}\n     *\
     \ ${3:Event description}${4:\n     * @param {${5:paramType}\\} ${6:paramName}\
     \ ${7:parameter description}}\n     */\n    '${2:eventName}'$0\n);"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -252,6 +253,7 @@ children:
     prefix_values: [super]
   displayName: call superclass
   expansion: ${1:MyClassName}.superclass.${2:constructor}.${3:apply}(${4:this, arguments});$0
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -266,6 +268,7 @@ children:
     prefix_values: [coa]
   displayName: console.log arguments
   expansion: console.log(arguments);$0
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -280,6 +283,7 @@ children:
     prefix_values: [co]
   displayName: console.log object
   expansion: console.log($1);$0
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -294,6 +298,7 @@ children:
     prefix_values: [c]
   displayName: console.log
   expansion: console.log('$1');$0
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -309,6 +314,7 @@ children:
   displayName: Define Event
   expansion: "/**\n * @event ${1:eventName}\n * ${2:Event description}${3:\n * @param\
     \ {${4:paramType}\\} ${5:paramName} ${6:parameter description}}\n */\n'${1:eventName}'$0"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -323,6 +329,7 @@ children:
     prefix_values: [app]
   displayName: Ext.apply
   expansion: "Ext.apply(${1:config}, {\n  $0\n});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -337,6 +344,7 @@ children:
     prefix_values: [aifc]
   displayName: Ext.applyIf to config
   expansion: "config = config || {};\n      \nExt.applyIf(config, {\n  $0\n});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -351,6 +359,7 @@ children:
     prefix_values: [aif]
   displayName: Ext.applyIf
   expansion: "Ext.applyIf(${1:config}, {\n  $0\n});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -365,6 +374,7 @@ children:
     prefix_values: [each]
   displayName: Ext.each
   expansion: "Ext.each(${1:Array}, ${2:function(${4}) {\n  ${0}\n\\}}${3:, this});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -382,6 +392,7 @@ children:
     \ * @extends ${3:Object}\n * ${4:Description}\n */\n${1:MyNamespace.}${2:ClassName}\
     \ = Ext.extend(${3:Object}, {\n\n    constructor: function() {\n        Ext.applyIf(this,\
     \ {\n            $0\n        });\n    }\n});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -400,6 +411,7 @@ children:
     \ = Ext.extend(${3:extendsClass}, {\n\n    initComponent: function() {\n     \
     \   Ext.applyIf(this, {\n            $0\n        });\n        \n        ${1:MyNamespace.}${2:ClassName}.superclass.initComponent.apply(this,\
     \ arguments);\n    }\n});${4:\n\nExt.reg('${5:xtype}', ${1:MyNamespace.}${2:ClassName});}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -415,6 +427,7 @@ children:
   displayName: Ext.iterate
   expansion: "Ext.iterate(${1:Object}, ${2:function(key, value) {\n  ${0}\n\\}}${3:,\
     \ this});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -429,6 +442,7 @@ children:
     prefix_values: [ns]
   displayName: Ext.ns
   expansion: Ext.ns('$1');$0
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -443,6 +457,7 @@ children:
     prefix_values: [ready]
   displayName: Ext.onReady
   expansion: "Ext.onReady(function() {\n  $0\n});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -457,6 +472,7 @@ children:
     prefix_values: [override]
   displayName: Ext.override
   expansion: "Ext.override(${1:Ext.${2:SomeClass}}, {\n  $0\n});"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -471,6 +487,7 @@ children:
     prefix_values: [reg]
   displayName: Ext.reg
   expansion: Ext.reg('${1:xtype}', ${2:ClassName});$0
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -486,6 +503,7 @@ children:
   displayName: 'Extend Block: config'
   expansion: "/**\n * @cfg {${1:String}} ${2:configName} ${3:Property description}\n\
     \ */\n${2:configName}: ${0}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -502,6 +520,7 @@ children:
   expansion: "constructor: function(config) {\n    config = config || {};\n\n    Ext.applyIf(config,\
     \ {\n        $0\n    });\n\n    ${2:Ext.Panel}.superclass.constructor.call(this,\
     \ config);\n}${1:,}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -518,6 +537,7 @@ children:
   expansion: "/**\n * ${10:Function description}${2:\n * @param {${3:String}\\} ${4:paramName}\
     \ ${5:parameter description}}${7:\n * @return {${8:String}\\} ${9:Return value\
     \ description}}\n */\n${1:functionName}: function($4$6) {\n  $0\n}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -533,6 +553,7 @@ children:
   displayName: 'Extend Block: initComponent'
   expansion: "initComponent: function() {\n    $0\n  \n    ${1:${TM_FILENAME/(.+)\\\
     .js$/$1/}}.superclass.initComponent.apply(this, arguments);\n}${2:,}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -548,6 +569,7 @@ children:
   displayName: 'Extend Block: property'
   expansion: "/**\n * ${3:Property description}\n * @property ${1:propertyName}\n\
     \ * @type ${2:Boolean}\n */\n${1:propertyName}: ${0}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -564,6 +586,7 @@ children:
   expansion: "if (${1:this}.fireEvent('${3:before-${2:eventName}}'${4:, ${5:params}})\
     \ !== false) {\n  $0\n  \n  ${1:this}.fireEvent('${2:eventName}'${6:${4:, ${5:params}}});\n\
     }"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -579,6 +602,7 @@ children:
   displayName: fireEvent (before)
   expansion: "if (${1:this}.fireEvent('${2:eventName}'${3:, ${4:params}})) {\n  $0\n\
     }"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -593,6 +617,7 @@ children:
     prefix_values: [fe]
   displayName: fireEvent
   expansion: ${1:this}.fireEvent('${2:eventName}'${3:, ${4:params}});
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -607,6 +632,7 @@ children:
     prefix_values: [ifnu]
   displayName: if not undefined
   expansion: "if (${1:myObject} != undefined) ${2:{\n  $0\n\\}}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -621,6 +647,7 @@ children:
     prefix_values: [ifu]
   displayName: if undefined
   expansion: "if (${1:myObject} == undefined) ${2:{\n  $0\n\\}}"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -634,6 +661,7 @@ children:
   customProperties: null
   displayName: JSDoc new line
   expansion: '* ${0}'
+  input: [none]
   inputPath: null
   keyBindingMap:
     !!com.aptana.scripting.model.Platform 'ALL': [ENTER]
@@ -649,6 +677,7 @@ children:
     prefix_values: ['* cl']
   displayName: 'JSDoc: class'
   expansion: '* @class ${1:ClassName}'
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -663,6 +692,7 @@ children:
     prefix_values: [/**]
   displayName: 'JSDoc: comment block'
   expansion: "/**\n * $0\n */"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -677,6 +707,7 @@ children:
     prefix_values: ['* c']
   displayName: 'JSDoc: config'
   expansion: '* @cfg {${1:String}} ${2:configName} ${3:Config description}'
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -691,6 +722,7 @@ children:
     prefix_values: ['* e']
   displayName: 'JSDoc: extends'
   expansion: '* @extends ${1:ClassName}'
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -705,6 +737,7 @@ children:
     prefix_values: ['* pc']
   displayName: 'JSDoc: param (config)'
   expansion: '* @param {Object} ${1:config} ${2:Optional config object}$0'
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -719,6 +752,7 @@ children:
     prefix_values: ['* p']
   displayName: 'JSDoc: param'
   expansion: '* @param {${1:String}} ${2:paramName} ${3:Parameter description}'
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -734,6 +768,7 @@ children:
   displayName: 'JSDoc: property'
   expansion: "/**\n * @property ${1:propertyName}\n * @type ${2:Boolean}\n * ${3:Description}\n\
     \ */\n${4:this.$1} = ${5:new ${2:Boolean}({\n  $0\n\\})};"
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -748,6 +783,7 @@ children:
     prefix_values: ['* r']
   displayName: 'JSDoc: return'
   expansion: '* @return {${1:String}} ${2:Returned parameter description}'
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
@@ -762,6 +798,7 @@ children:
     prefix_values: ['on']
   displayName: on (addListener)
   expansion: ${1:this}.on('${2:click}', ${4:function($5) {$0\}}, ${3:this});
+  input: [none]
   inputPath: null
   keyBindingMap: null
   outputPath: null
