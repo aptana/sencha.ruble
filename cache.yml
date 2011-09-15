@@ -245,7 +245,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -260,7 +260,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -275,7 +275,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -290,7 +290,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -305,7 +305,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -321,7 +321,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -336,7 +336,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -351,7 +351,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -366,7 +366,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -381,7 +381,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -399,7 +399,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -418,7 +418,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -434,7 +434,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -449,7 +449,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -464,7 +464,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -479,7 +479,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -494,7 +494,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -510,7 +510,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -527,7 +527,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -544,7 +544,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -560,7 +560,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -576,7 +576,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -593,7 +593,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -609,7 +609,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -624,7 +624,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -639,7 +639,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -654,7 +654,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -684,7 +684,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -699,7 +699,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -714,7 +714,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -729,7 +729,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -744,7 +744,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -759,7 +759,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -775,7 +775,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -790,7 +790,7 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 - !!com.aptana.scripting.model.SnippetElement
   async: false
@@ -805,20 +805,20 @@ children:
   outputType: insert_as_snippet
   path: snippets/snippets.rb
   runType: current_thread
-  scope: source.js
+  scope: source.js -punctuation.definition.parameters.end.js
   workingDirectoryType: UNDEFINED
 copyright: null
 customProperties: {contact_email_rot_13: 'null'}
-decreaseIndentMarkers: &id002 {}
+decreaseIndentMarkers: {}
 description: 'null
 
   '
 displayName: Sencha
-fileTypeRegistry: *id002
-fileTypes: *id001
-foldingStartMarkers: *id002
-foldingStopMarkers: *id002
-increaseIndentMarkers: *id002
+fileTypeRegistry: {}
+fileTypes: []
+foldingStartMarkers: {}
+foldingStopMarkers: {}
+increaseIndentMarkers: {}
 license: null
 licenseUrl: null
 path: bundle.rb
