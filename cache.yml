@@ -809,16 +809,16 @@ children:
   workingDirectoryType: UNDEFINED
 copyright: null
 customProperties: {contact_email_rot_13: 'null'}
-decreaseIndentMarkers: {}
+decreaseIndentMarkers: &id002 {}
 description: 'null
 
   '
 displayName: Sencha
-fileTypeRegistry: {}
-fileTypes: []
-foldingStartMarkers: {}
-foldingStopMarkers: {}
-increaseIndentMarkers: {}
+fileTypeRegistry: *id002
+fileTypes: *id001
+foldingStartMarkers: *id002
+foldingStopMarkers: *id002
+increaseIndentMarkers: *id002
 license: null
 licenseUrl: null
 path: bundle.rb
